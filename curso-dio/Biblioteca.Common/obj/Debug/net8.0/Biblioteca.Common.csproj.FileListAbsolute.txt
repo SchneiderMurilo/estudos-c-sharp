@@ -1,0 +1,11 @@
+/Users/muriloschneider/Desktop/Programacao/Curso DIO/Biblioteca.Common/bin/Debug/net8.0/Biblioteca.Common.deps.json
+/Users/muriloschneider/Desktop/Programacao/Curso DIO/Biblioteca.Common/bin/Debug/net8.0/Biblioteca.Common.dll
+/Users/muriloschneider/Desktop/Programacao/Curso DIO/Biblioteca.Common/bin/Debug/net8.0/Biblioteca.Common.pdb
+/Users/muriloschneider/Desktop/Programacao/Curso DIO/Biblioteca.Common/obj/Debug/net8.0/Biblioteca.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muriloschneider/Desktop/Programacao/Curso DIO/Biblioteca.Common/obj/Debug/net8.0/Biblioteca.Common.AssemblyInfoInputs.cache
+/Users/muriloschneider/Desktop/Programacao/Curso DIO/Biblioteca.Common/obj/Debug/net8.0/Biblioteca.Common.AssemblyInfo.cs
+/Users/muriloschneider/Desktop/Programacao/Curso DIO/Biblioteca.Common/obj/Debug/net8.0/Biblioteca.Common.csproj.CoreCompileInputs.cache
+/Users/muriloschneider/Desktop/Programacao/Curso DIO/Biblioteca.Common/obj/Debug/net8.0/Biblioteca.Common.dll
+/Users/muriloschneider/Desktop/Programacao/Curso DIO/Biblioteca.Common/obj/Debug/net8.0/refint/Biblioteca.Common.dll
+/Users/muriloschneider/Desktop/Programacao/Curso DIO/Biblioteca.Common/obj/Debug/net8.0/Biblioteca.Common.pdb
+/Users/muriloschneider/Desktop/Programacao/Curso DIO/Biblioteca.Common/obj/Debug/net8.0/ref/Biblioteca.Common.dll

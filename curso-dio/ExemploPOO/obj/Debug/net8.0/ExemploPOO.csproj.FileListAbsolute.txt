@@ -1,0 +1,14 @@
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/bin/Debug/net8.0/ExemploPOO
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/bin/Debug/net8.0/ExemploPOO.deps.json
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/bin/Debug/net8.0/ExemploPOO.runtimeconfig.json
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/bin/Debug/net8.0/ExemploPOO.dll
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/bin/Debug/net8.0/ExemploPOO.pdb
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/obj/Debug/net8.0/ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/obj/Debug/net8.0/ExemploPOO.AssemblyInfoInputs.cache
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/obj/Debug/net8.0/ExemploPOO.AssemblyInfo.cs
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/obj/Debug/net8.0/ExemploPOO.csproj.CoreCompileInputs.cache
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/obj/Debug/net8.0/ExemploPOO.dll
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/obj/Debug/net8.0/refint/ExemploPOO.dll
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/obj/Debug/net8.0/ExemploPOO.pdb
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/obj/Debug/net8.0/ExemploPOO.genruntimeconfig.cache
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploPOO/obj/Debug/net8.0/ref/ExemploPOO.dll

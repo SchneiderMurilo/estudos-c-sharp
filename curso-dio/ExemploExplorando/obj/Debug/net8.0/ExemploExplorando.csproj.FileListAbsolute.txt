@@ -1,0 +1,14 @@
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.deps.json
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.runtimeconfig.json
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.dll
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.pdb
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.AssemblyInfoInputs.cache
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.AssemblyInfo.cs
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.csproj.CoreCompileInputs.cache
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.dll
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/obj/Debug/net8.0/refint/ExemploExplorando.dll
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.pdb
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.genruntimeconfig.cache
+/Users/muriloschneider/Desktop/Programacao/curso-dio/ExemploExplorando/obj/Debug/net8.0/ref/ExemploExplorando.dll
