@@ -28,6 +28,11 @@ public class AdministradorServico : IAdministradorServico
         return adm;
     }
 
+    public Administrador? BuscaPorId(int id)
+    {
+        return _contexto.Administradores.Where(v => v.Id == id).FirstOrDefault();
+    }
+
     public List<Administrador> Todos(int? pagina)
     {
         var query = _contexto.Administradores.AsQueryable();
